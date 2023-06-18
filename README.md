@@ -1,6 +1,6 @@
-# whatsapp
+# Authentication
 
-A new Flutter project.
+all the logic of authentication flutter and firebase has been used 
 
 ## Getting Started
 
